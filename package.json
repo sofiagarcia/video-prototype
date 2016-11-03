@@ -1,14 +1,14 @@
 {
   "name": "[Enter Project Name]",
   "version": "1.0.0",
-  "description": "[Enter Description]",
+  "description": "working with video and Kairos API",
   "main": "sketch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+[git repository link]"
+    "url": "git+https://github.com/sofiagarcia/video-prototype"
   },
   "keywords": [
     "generative",
@@ -16,14 +16,17 @@
     "p5.js",
     "abstract",
     "creative",
-    "coding"
+    "coding",
+    "video",
+    "facial recognition",
+    "emotion analysis"
   ],
   "author": "Sofia Garcia",
   "license": "ISC",
   "bugs": {
-    "url": "[git repository link]/issues"
+    "url": "https://github.com/sofiagarcia/video-prototype/issues"
   },
-  "homepage": "[git repository link]#readme",
+  "homepage": "https://github.com/sofiagarcia/video-prototype#readme",
   "devDependencies": {
     "browser-sync": "^2.17.5",
     "gulp": "^3.9.1",
